@@ -1,0 +1,138 @@
+
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family: 'Open Sans';
+}
+
+header{
+	background-color: #fcfc34;
+	text-align: center;
+	padding: 30px;
+
+}
+.copa{
+    height: 50px;
+
+
+}
+nav a{
+    text-align: center;
+	display: inline-block;
+	text-decoration: none;
+	color: #696969;
+	margin: 0 30px;
+	padding: 5px 15px;
+	border-radius: 40px;
+    
+
+
+}
+nav a:hover {
+	background-color: #000;
+	color: #ffffff;
+}
+
+ .encabezado{
+    width: 600px;
+    height: 400px;
+    position: relative;
+
+
+
+}
+
+.encabezado img{
+    width: 1380px;
+    height: 600px;
+    position: absolute;
+
+
+}
+
+.encabezado p {
+    font-size: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: #fcfc34;
+	padding: 30px;
+    height: 140px;
+}
+
+div.galeria{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 black, 0 6px 20px 0 rgba(0,0,0,0,.19);
+    float: left;
+    width: 350px;
+}
+
+div.galeria img{
+    width: 100%;
+    height: auto;
+}
+
+div.galeria:hover{
+    border: 1px solid #fcfc34;
+    transform: rotate(-3deg);
+}
+
+div.pie{
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+    padding: 10px;
+}
+
+
+
+.selesion1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	background-color: #fcfc34;
+    width: 100%;
+    margin-left: 0;
+    margin-top: 680px;
+    height: 10px;
+    text-align: center;   
+    padding: 5%;
+}
+
+.Grupos{
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    padding: center;
+}
+
+.grupos14{
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    padding: center;
+}
+
+.patro2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	background-color: #fcfc34;
+    width: 100%;
+    margin-left: 0;
+    margin-top: 200px;
+    height: 70px;
+    text-align: center;   
+    padding: 5%;
+}
+
+.selecio1{
+    text-align: center;
+}
